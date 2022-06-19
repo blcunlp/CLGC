@@ -1,6 +1,6 @@
 # CLGC
 This is a corpus for Chinese Literary Grace Evaluation. The corpus consists of 10,000 texts from novels and prose, with more than 1.85 million tokens, including 64\% level 1 texts (6,448 texts, 1,192,144 tokens), 19\% level 2 texts (1959 texts, 369,946 tokens) and 15\% level 3 texts (1593 texts, 294,748 tokens). Multi-level annotations are provided for each text in our corpus, including literary grace level, sentence category, and figure-of-speech type.
-## bib
+## Bib
 @InProceedings{li-yu-liu:2022:LREC,
 
   author    = {Li, Yi  and  Yu, Dong  and  liu, pengyuan},
