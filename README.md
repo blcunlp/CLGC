@@ -1,5 +1,5 @@
 # CLGC
-This is a corpus for Chinese Literary Grace Evaluation. The corpus consists of 10,000 texts from novels and prose, with more than 1.85 million tokens, including 64\% level 1 texts (6,448 texts, 1,192,144 tokens), 19\% level 2 texts (1959 texts, 369,946 tokens) and 15\% level 3 texts (1593 texts, 294,748 tokens). Multi-level annotations are provided for each text in our corpus, including literary grace level, sentence category, and figure-of-speech type.
+This repo is for **CLGC: A Corpus for Chinese Literary Grace Evaluation**. It is a corpus for Chinese Literary Grace Evaluation. The corpus consists of 10,000 texts from novels and prose, with more than 1.85 million tokens, including 64\% level 1 texts (6,448 texts, 1,192,144 tokens), 19\% level 2 texts (1959 texts, 369,946 tokens) and 15\% level 3 texts (1593 texts, 294,748 tokens). Multi-level annotations are provided for each text in our corpus, including literary grace level, sentence category, and figure-of-speech type.
 ## Bib
 @InProceedings{li-yu-liu:2022:LREC,
 
@@ -21,7 +21,7 @@ This is a corpus for Chinese Literary Grace Evaluation. The corpus consists of 1
   
   abstract  = {In this paper, we construct a Chinese literary grace corpus, CLGC, with 10,000 texts and more than 1.85 million tokens. Multi-level annotations are provided for each text in our corpus, including literary grace level, sentence category, and figure-of-speech type. Based on the corpus, we dig deep into the correlation between fine-grained features (semantic information, part-of-speech and figure-of-speech, etc.) and literary grace level. We also propose a new Literary Grace Evaluation (LGE) task, which aims at making a comprehensive assessment of the literary grace level according to the text. In the end, we build some classification models with machine learning algorithms (such as SVM, TextCNN) to prove the effectiveness of our features and corpus for LGE. The results of our preliminary classification experiments have achieved 79.71\% on the weighted average F1-score.},
   
-  url       = {https://aclanthology.org/2022.lrec-1.594/}
+  url       = {https://aclanthology.org/2022.lrec-1.594//}
 }
 ## Label Description
 - C: declarative sentence. 
